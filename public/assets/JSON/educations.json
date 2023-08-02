@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Doctorate",
+    "edu_key": "Doctorate"
+  },
+  {
+    "value": "Masters",
+    "edu_key": "Masters"
+  },
+  {
+    "value": "Honors degree",
+    "edu_key": "Honors degree"
+  },
+  {
+    "value": "Bachelors",
+    "edu_key": "Bachelors"
+  },
+  {
+    "value": "Undergraduate",
+    "edu_key": "Undergraduate"
+  },
+  {
+    "value": "Associates degree",
+    "edu_key": "Associates degree"
+  },
+  {
+    "value": "Diploma",
+    "edu_key": "Diploma"
+  },
+  {
+    "value": "High School",
+    "edu_key": "High School"
+  },
+  {
+    "value": "Less than high school",
+    "edu_key": "Less than high school"
+  },
+  {
+    "value": "Trade school",
+    "edu_key": "Trade school"
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "profession": "Part Time Worker"
+  },
+  {
+    "profession": "Unemployed"
+  },
+  {
+    "profession": "In between jobs"
+  },
+  {
+    "profession": "Self-employed"
+  },
+  {
+    "profession": "Student"
+  },
+  {
+    "profession": "Home Maker"
+  },
+  {
+    "profession": "Taking a break"
+  },
+  {
+    "profession": "Creative Person"
+  },
+  {
+    "profession": "Accountant"
+  },
+  {
+    "profession": "Accounting and Finance"
+  },
+  {
+    "profession": "Actor"
+  },
+  {
+    "profession": "Administration Professional"
+  },
+  {
+    "profession": "Advertising Professional"
+  },
+  {
+    "profession": "Analyst (Accounting)"
+  },
+  {
+    "profession": "Analyst (Big Data)"
+  },
+  {
+    "profession": "Analyst (Finance)"
+  },
+  {
+    "profession": "Anchor"
+  },
+  {
+    "profession": "Architect"
+  },
+  {
+    "profession": "Audiologist"
+  },
+  {
+    "profession": "Blogger"
+  },{
+    "profession": "Banker (Commercial)"
+  },
+  {
+    "profession": "Banker (Consumer)"
+  },
+  {
+    "profession": "Banker (Corporate)"
+  },
+  {
+    "profession": "Banker (Investment)"
+  },
+  {
+    "profession": "Banking and Finance"
+  },
+  {
+    "profession": "Barrister"
+  },
+  {
+    "profession": "Beautician"
+  },
+  {
+    "profession": "Biologist"
+  },
+  {
+    "profession": "Biotechnologist"
+  },
+  {
+    "profession": "Botanist"
+  },
+  {
+    "profession": "Business Person"
+  },
+  {
+    "profession": "Charity Worker"
+  },
+  {
+    "profession": "Chartered Accountant"
+  },
+  {
+    "profession": "Clerk"
+  },
+  {
+    "profession": "Computer Professional"
+  },
+  {
+    "profession": "Cosmologist"
+  },
+  {
+    "profession": "Cost Accountant"
+  },
+  {
+    "profession": "Customer Support Professional"
+  },
+  {
+    "profession": "Defense Employee"
+  },
+  {
+    "profession": "Dentist"
+  },
+  {
+    "profession": "Designer"
+  },
+  {
+    "profession": "Dietitian"
+  },
+  {
+    "profession": "Doctor (Medicine)"
+  },
+  {
+    "profession": "Doctor (Surgeon)"
+  },
+  {
+    "profession": "Early Childhood Educator"
+  },
+  {
+    "profession": "Economist"
+  },
+  {
+    "profession": "Elderly Care Professional"
+  },
+  {
+    "profession": "Engineer (Aerospace)"
+  },
+  {
+    "profession": "Engineer (Agricultural)"
+  },
+  {
+    "profession": "Engineer (Architectural)"
+  },
+  {
+    "profession": "Engineer (Biomedical)"
+  },
+  {
+    "profession": "Engineer (Chemical)"
+  },
+  {
+    "profession": "Engineer (Civil)"
+  },
+  {
+    "profession": "Engineer (Computer)"
+  },
+  {
+    "profession": "Engineer (Electrical)"
+  },
+  {
+    "profession": "Engineer (Electronics)"
+  },
+  {
+    "profession": "Engineer (Environmental)"
+  },
+  {
+    "profession": "Engineer (Marine)"
+  },
+  {
+    "profession": "Engineer (Mechanical)"
+  },
+  {
+    "profession": "Engineer (Mechatronics)"
+  },
+  {
+    "profession": "Engineer (Metallurgical)"
+  },
+  {
+    "profession": "Engineer (Mining)"
+  },
+  {
+    "profession": "Engineer (Nuclear)"
+  },
+  {
+    "profession": "Engineer (Other)"
+  },
+  {
+    "profession": "Engineer (Petroleum)"
+  },
+  {
+    "profession": "Engineer (Project)"
+  },
+  {
+    "profession": "Engineer (Robotics)"
+  },
+  {
+    "profession": "Engineer (Software)"
+  },
+  {
+    "profession": "Engineer (Structural)"
+  },
+  {
+    "profession": "Engineer (Telecom)"
+  },
+  {
+    "profession": "Engineer (Textile)"
+  },
+  {
+    "profession": "Entertainment Professional"
+  },
+  {
+    "profession": "Event Manager"
+  },
+  {
+    "profession": "Executive"
+  },
+  {
+    "profession": "Executive (Business)"
+  },
+  {
+    "profession": "Executive (Finance)"
+  },
+  {
+    "profession": "Executive (Marketing)"
+  },
+  {
+    "profession": "Factory worker"
+  },
+  {
+    "profession": "Farmer"
+  },
+  {
+    "profession": "Fashion Designer"
+  },
+  {
+    "profession": "Finance Manager"
+  },
+  {
+    "profession": "Financial Economist"
+  },
+  {
+    "profession": "Flight Attendant"
+  },
+  {
+    "profession": "Food Nutritionist"
+  },
+  {
+    "profession": "Geologist"
+  },
+  {
+    "profession": "Government Employee"
+  },
+  {
+    "profession": "Graphic Designer"
+  },
+  {
+    "profession": "Health and Fitness Professional"
+  },
+  {
+    "profession": "Health Care Professional"
+  },
+  {
+    "profession": "Housekeeper"
+  },
+  {
+    "profession": "HR Professional"
+  },
+  {
+    "profession": "Imam"
+  },
+  {
+    "profession": "Interior Designer"
+  },
+  {
+    "profession": "International Relations"
+  },
+  {
+    "profession": "Investment Professional"
+  },
+  {
+    "profession": "IT / Telecom Professional"
+  },
+  {
+    "profession": "Journalist"
+  },
+  {
+    "profession": "Judge"
+  },
+  {
+    "profession": "Lawyer (Civil)"
+  },
+  {
+    "profession": "Lawyer (Corporate)"
+  },
+  {
+    "profession": "Lawyer (Criminal)"
+  },
+  {
+    "profession": "Lawyer (Immigration)"
+  },
+  {
+    "profession": "Lecturer"
+  },
+  {
+    "profession": "Legal Professional"
+  },
+  {
+    "profession": "Life Guard"
+  },
+  {
+    "profession": "Linguistics Professional"
+  },
+  {
+    "profession": "Makeup artist"
+  },
+  {
+    "profession": "Manager"
+  },
+  {
+    "profession": "Manager (Finance)"
+  },
+  {
+    "profession": "Manager (HR)"
+  },
+  {
+    "profession": "Manager (Logistics)"
+  },
+  {
+    "profession": "Manager (Marketing)"
+  },
+  {
+    "profession": "Marketing Professional"
+  },
+  {
+    "profession": "Mathematician"
+  },
+  {
+    "profession": "Mechanic"
+  },
+  {
+    "profession": "Media Professional"
+  },
+  {
+    "profession": "Media transcriptionist"
+  },
+  {
+    "profession": "Medical Professional"
+  },
+  {
+    "profession": "Merchant Naval Officer"
+  },
+  {
+    "profession": "Model"
+  },
+  {
+    "profession": "Musician"
+  },
+  {
+    "profession": "Non-mainstream Professional"
+  },
+  {
+    "profession": "Nurse"
+  },
+  {
+    "profession": "Occupational Therapist"
+  },
+  {
+    "profession": "Optician"
+  },
+  {
+    "profession": "Other"
+  },
+  {
+    "profession": "Painter"
+  },
+  {
+    "profession": "Paralegal"
+  },
+  {
+    "profession": "Pharmacist"
+  },
+  {
+    "profession": "Physician"
+  },
+  {
+    "profession": "Physician Assistant"
+  },
+  {
+    "profession": "Physicist"
+  },
+  {
+    "profession": "Physiotherapist"
+  },
+  {
+    "profession": "Pilot"
+  },
+  {
+    "profession": "Politician"
+  },
+  {
+    "profession": "Production Professional"
+  },
+  {
+    "profession": "Professor"
+  },
+  {
+    "profession": "Psychologist"
+  },
+  {
+    "profession": "Public Relation Professional"
+  },
+  {
+    "profession": "Quran Teacher"
+  },
+  {
+    "profession": "Real Estate Professional"
+  },
+  {
+    "profession": "Recruitment Professional"
+  },
+  {
+    "profession": "Religious Scholar (Islam)"
+  },
+  {
+    "profession": "Research Scholar"
+  },
+  {
+    "profession": "Retail Professional"
+  },
+  {
+    "profession": "Retired Person"
+  },
+  {
+    "profession": "Salesperson"
+  },
+  {
+    "profession": "Scientist"
+  },
+  {
+    "profession": "Sculptor"
+  },
+  {
+    "profession": "Secretary"
+  },
+  {
+    "profession": "Singer"
+  },
+  {
+    "profession": "Sketch Artist"
+  },
+  {
+    "profession": "Solicitor"
+  },
+  {
+    "profession": "Sports Coach"
+  },
+  {
+    "profession": "Statistician"
+  },
+  {
+    "profession": "Technician"
+  },
+  {
+    "profession": "Tourism & Travel Coordinator"
+  },
+  {
+    "profession": "Writer"
+  },
+  {
+    "profession": "Zoologist"
+  }
+]
